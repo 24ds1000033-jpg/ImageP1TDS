@@ -3,5 +3,6 @@
   "model": "Cursor/Composer image generation (internal)",
   "dataset_name": "GRACE/FO GRACE-FO Mascon Groundwater Anomalies (NASA)",
   "dataset_url": "https://gracefo.jpl.nasa.gov/data/grace-fo-data/",
-  "insight": "Groundwater loss from aquifer drawdown and drought shows up as persistent mass loss—here felt as one fragile pocket of water in an exhausted land."
+  "insight": "Groundwater loss from aquifer drawdown and drought shows up as persistent mass loss—here felt as one fragile pocket of water in an exhausted land.",
+  "publish_email": true
 }
