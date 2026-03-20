@@ -1,0 +1,8 @@
+{
+  "prompt": "Editorial magazine-style single image, no text or labels: vast dry cracked earth in ochre and rust tones, a single small glass sphere of clear blue water in the center catching light, metaphor for shrinking groundwater and drought from climate data, emotionally heavy, cinematic lighting, no charts, no axes, no words, photoreal texture, landscape 1834x1024. Negative: text, typography, bar chart, line chart, pie chart, globe, thermometer.",
+  "model": "Cursor/Composer image generation (internal)",
+  "dataset_name": "GRACE/FO GRACE-FO Mascon Groundwater Anomalies (NASA)",
+  "dataset_url": "https://gracefo.jpl.nasa.gov/data/grace-fo-data/",
+  "insight": "Groundwater loss from aquifer drawdown and drought shows up as persistent mass loss—here felt as one fragile pocket of water in an exhausted land.",
+  "publish_email": false
+}
